@@ -10,7 +10,7 @@
 			tech nerd.
 			He grew up in Albuquerque but has lived most recently in Santa Fe and San Fransisco</p>
 		<p>Prior to Bootcamp he spent most of his time reading <strong><s>paper</s></strong> eBooks and working backstage in the
-			theatre world, namely by cleaning up all the staff after partiesw.</p>
+			theatre world, namely by cleaning up all the staff after parties.</p>
 		<p>He has recently adopted a dog named Mr. Spot as seen below. Notice as he <s>prepares to kill</s> stands no chance against the famed
 			Lambchop.</p>
 		<img src="images/spot.jpg" alt="Mr.Spot" height="700" width="500"/>
